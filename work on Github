@@ -10,5 +10,11 @@ merge
 fork 
 edit
 commit
+master can see it from graph manue
 pull request
 waiting for merge
+
+#issue
+mainly for discuss and support for 
+markedown # * ```  > #1 #2
+
