@@ -1,0 +1,10 @@
+we can manipulate the file on linux 
+
+mkdir test 
+cd ./test/
+ls
+vi test
+git status
+git add readme
+git commit
+git push
