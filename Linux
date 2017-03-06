@@ -8,3 +8,7 @@ git status
 git add readme
 git commit
 git push
+#when there is conflict
+git pull
+git diff
+git push
