@@ -12,3 +12,7 @@ git push
 git pull
 git diff
 git push
+
+#git log look for history submitt
+git reset --hard 1231saf23
+git reflog #looking future 
